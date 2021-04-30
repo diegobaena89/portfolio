@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  color: #272727;
+  background-color: #f0f0f0;
+}
+
+a {
+  font-size: 1.2em;
+  color: #272727;
+  transition: 0.4s;
+}
+
+.fab {
+  font-size: 1.4em;
+  margin: 0;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #2ab7ca;
+}
+
+p {
+  font-size: 1.1em;
+}

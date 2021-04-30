@@ -1,0 +1,12 @@
+#cardHover {
+  transition: 0.4s;
+}
+
+#cardHover span {
+  color: #2ab7ca;
+}
+
+#cardHover:hover {
+  transform: scale(1.07);
+  cursor: pointer;
+}
