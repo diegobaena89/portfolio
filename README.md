@@ -1,8 +1,6 @@
 <div align="center">
 
-![badge](https://badgen.net/badge/languages/3/:color?)
- ![badge](https://badgen.net/badge/made_by/diegobaena89/:color?) 
- ![badge](https://badgen.net/github/license/micromatch/micromatch) 
+![badge](https://badgen.net/badge/languages/3/:color?) ![badge](https://badgen.net/badge/made_by/diegobaena89/:color?)  ![badge](https://badgen.net/github/license/micromatch/micromatch) 
 
 
 ![portfolio](https://raw.githubusercontent.com/diegobaena89/portfolio/main/img1.png)
